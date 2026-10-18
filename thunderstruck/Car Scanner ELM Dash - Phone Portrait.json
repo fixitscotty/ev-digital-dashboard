@@ -6,7 +6,7 @@
         "ItemType": 4,
         "DataSources": [
           {
-            "PID_Id": 100050,
+            "PID_Id": 100068,
             "ItemColor": "#008000FF"
           }
         ],
@@ -138,7 +138,7 @@
         "ItemType": 0,
         "DataSources": [
           {
-            "PID_Id": 100051,
+            "PID_Id": 100069,
             "ItemColor": "#FFFFFFFF"
           }
         ],
@@ -270,7 +270,7 @@
         "ItemType": 0,
         "DataSources": [
           {
-            "PID_Id": 100052,
+            "PID_Id": 100070,
             "ItemColor": "#FFFFFFFF"
           }
         ],
@@ -402,19 +402,19 @@
         "ItemType": 9,
         "DataSources": [
           {
-            "PID_Id": 100053,
+            "PID_Id": 100071,
             "ItemColor": "#FFFFFFFF"
           },
           {
-            "PID_Id": 100054,
+            "PID_Id": 100072,
             "ItemColor": "#FFFFFFFF"
           },
           {
-            "PID_Id": 100055,
+            "PID_Id": 100073,
             "ItemColor": "#FFFFFFFF"
           },
           {
-            "PID_Id": 100056,
+            "PID_Id": 100074,
             "ItemColor": "#FFFFFFFF"
           }
         ],
@@ -546,7 +546,7 @@
         "ItemType": 0,
         "DataSources": [
           {
-            "PID_Id": 100057,
+            "PID_Id": 100075,
             "ItemColor": "#FFFFFFFF"
           }
         ],
@@ -663,7 +663,7 @@
         "GaugeTickThickness": 0,
         "GaugeRangesThickness": 0,
         "GaugeLabelGapFactor": 0,
-        "ValueFontName": 1,
+        "ValueFontName": 0,
         "TitleFontName": 0,
         "UnitsFontName": 0,
         "GaugeMinorTicksCount": 4,
@@ -678,11 +678,11 @@
         "ItemType": 3,
         "DataSources": [
           {
-            "PID_Id": 100058,
+            "PID_Id": 100076,
             "ItemColor": "#FFFFFFFF"
           }
         ],
-        "CustomName": "",
+        "CustomName": "Power",
         "OverrideName": true,
         "PositionX": 30,
         "PositionY": 30,
